@@ -1,0 +1,140 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-image: linear-gradient(to bottom, #300000, #3f1822, #4b2e3c, #574652, #645d66, #645d66, #645d66, #645d66, #574652, #4b2e3c, #3f1822, #300000);
+}
+
+.inicio {
+
+    background-image: linear-gradient(rgba(255, 0, 0, 0.267), #85e00c00);
+    color: white;
+    padding: 8px 8px;
+    position: fixed;
+    width: 100vw;
+    top: 0px;
+
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+
+    font-size: 170%;
+    font-family: 'Creepster', cursive;
+}
+
+
+.corpinho {
+    display: flex;
+    background-size: cover;
+    height: 100vh;
+    align-items: center;
+    text-align: center;
+
+}
+
+
+.corpinho h2 {
+    font-family: 'Bungee', cursive;
+    color: rgb(248, 9, 9);
+
+}
+
+.corpinho a {
+    text-decoration: none;
+}
+
+
+.h1-1 {
+    text-align: center;
+    margin: 20px 0px;
+    font-family: 'Bungee', cursive;
+    color: #f7f7f7;
+
+}
+
+.cardes a {
+    text-decoration: none;
+}
+
+.cardes h3 {
+    color: #f0f0f0;
+    font-family: 'Bungee', cursive;
+
+}
+
+.cardes {
+    background-image: white;
+    padding: 20px 100px;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: rgba(0, 0, 0, 0.062);
+}
+
+.c1 {
+    background-color: rgb(153, 6, 6);
+    text-align: center;
+    box-shadow: 2px 5px 8px 0 rgba(238, 3, 3, 0.5);
+    padding: 15px 15px;
+    width: 20vw;
+}
+
+.c1 .ft1 {
+    background-image: url(./topm\,.webp);
+    background-size: cover;
+    background-position: center;
+    padding: 80px 40px;
+}
+
+.c1 .ft2 {
+    background-image: url(./anti.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 80px 50px;
+}
+
+
+.fitdance {
+    display:flex;
+    font-size: 25px;
+    background-image: url(./86042-fallen-probleminha-article_m-1.webp);
+    background-size: cover;
+    padding: 220px 50px;
+}
+
+nav {
+
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-size: 30px;
+
+}
+
+
+nav ul {
+    background-color: rgba(0, 0, 0, 0.479);
+    text-orientation: sideways;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 40px;
+
+}
+
+nav li {
+    list-style: none;
+    text-decoration: none;
+
+}
+
+
+nav a {
+    text-decoration: none;
+    color: rgb(230, 18, 18);
+}

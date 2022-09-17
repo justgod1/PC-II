@@ -1,0 +1,46 @@
+.titulo {
+    background-color: red;
+    padding: 30px;
+    text-align: center;
+}
+
+.foto {
+    background-color:blanchedalmond;
+    text-align: center;
+    
+}
+
+.look1 {
+    background-color: bisque;
+    text-align: center;
+    
+}
+
+.look2 {
+    background-color: bisque;
+    text-align: right;
+}
+
+.look3 {
+    background-color: bisque;
+    text-align: right;
+    
+}
+
+.ehisso {
+    color: rgb(168, 50, 168);
+    text-align: center;
+}
+
+.rodape {
+    background-color: red;
+    padding: 10px;
+    bottom: 0px;
+    position: sticky;
+    text-align: center;
+}
+
+.redes1 {
+    text-align: center;
+    color:aqua;
+}
